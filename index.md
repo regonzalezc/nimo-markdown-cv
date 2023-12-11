@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Rafael "Nimo" González
 email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
