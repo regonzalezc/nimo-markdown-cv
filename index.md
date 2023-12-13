@@ -1,15 +1,16 @@
 ---
 layout: cv
-title: Rafael "Nimo" González
+title: Rafael "Ernesto" González
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:regonzalezc@gmail.com
+  text: regonzalezc@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://regonzalezc.github.io/markdown-cv
+  text: https://regonzalezc.github.io/CV
+  phone: +58-424-1776254
 ---
 
-# Rafael **Ermesto**
+# Rafael **Ermesto** González
 
 <!--
 include contact information from the front matter
