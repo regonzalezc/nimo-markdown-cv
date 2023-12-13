@@ -7,10 +7,10 @@ email:
 homepage:
   url: https://regonzalezc.github.io/markdown-cv
   text: https://regonzalezc.github.io/CV
-  phone: +58-424-1776254
+phone: +58-424-1776254
 ---
 
-# Rafael **Ermesto** González
+# Rafael **Ernesto** González
 
 <!--
 include contact information from the front matter
@@ -22,7 +22,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## Educación
 
 ### **Carnegie Mellon University** `2018.9 -`
 
